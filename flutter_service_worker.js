@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "cff421195c2ae1633575836a9b023f07",
-"index.html": "13f99e7023ddd87fd966ce665bd3ac63",
-"/": "13f99e7023ddd87fd966ce665bd3ac63",
-"main.dart.js": "0654d67bb727744ba806ac04262fa478",
+"index.html": "97139bd3605fcf5d05571075ffd432c1",
+"/": "97139bd3605fcf5d05571075ffd432c1",
+"main.dart.js": "aff1ca37555892641756d676e4ba432c",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -15,7 +15,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "47bbafc762551e58c86bdcb78af2914b",
 "assets/AssetManifest.json": "dabff569701a912c52183c6dd990b842",
-"assets/NOTICES": "a0569dc2e5dc9f6f3f4704cd681a6e67",
+"assets/NOTICES": "65eba969c4a65b13a27300a486d0f0f1",
 "assets/FontManifest.json": "20af9913cf9aaa495ddf207f7738328b",
 "assets/packages/chart/assets/images/deal-down-big.svg": "981f2017de2a8c59f237f572df20bfc1",
 "assets/packages/chart/assets/images/deal-down-big.png": "d2f253d6775a81caf21d632f1f7c8b8e",
